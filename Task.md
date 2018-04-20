@@ -4,6 +4,9 @@ Is in progress at a specific time of day. For this purpose a structure will be u
 A binary tree that stores information related to the departure and arrival times of the planes.
 An example of this structure is shown in the figure:
 
+![Task img](/Task.png)
+
+
 Each flight node is stored in one tree node. In particular, its code is stored
 Flight time, departure time and time of arrival of the airplane. Also, each node stores the maximum time
 Between all flights stored in the root node of that node. B.C.,
