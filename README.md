@@ -1,5 +1,8 @@
 # Flights
 [LAB] Use binary trees to handle flight schedules
 
-**Project status:** Finished
+![Task](/Task.txt)
+![Tree img](/Task.png)
+
+**Project status:** Finished  
 **Project birthday:** Q2 2017
